@@ -235,6 +235,7 @@ namespace Dobocan_Vlad_Lab5
             navigationView.MoveCurrentToNext();
         }
 
+        //click
         private void btnEdit_Click(object sender, RoutedEventArgs e)
         {
             action = ActionState.Edit;
